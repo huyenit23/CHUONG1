@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="LAB01/LAB01.csproj" />
+  <Project Path="LAB03/LAB03.csproj" />
+  <Project Path="LAB04/LAB04.csproj" />
+  <Project Path="LAB05/LAB05.csproj" />
+  <Project Path="LAB06/LAB06.csproj" />
+  <Project Path="LAB07/LAB07.csproj" />
+  <Project Path="LAB08/LAB08.csproj" />
+  <Project Path="LAB09/LAB09.csproj" />
+  <Project Path="LAB10/LAB10.csproj" />
+  <Project Path="LAP02/LAP02.csproj" />
+</Solution>
